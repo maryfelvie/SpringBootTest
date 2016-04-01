@@ -1,0 +1,5 @@
+com/devmedia/mvc/repository/LivroRepository.class
+com/devmedia/mvc/entity/Livro.class
+com/devmedia/mvc/WebInitializer.class
+com/devmedia/mvc/App.class
+com/devmedia/mvc/controller/LivroController.class
